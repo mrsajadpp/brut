@@ -1,4 +1,4 @@
- Brut
+# Brut
 
 Brut is a simple brute force program developed for educational and legal purposes. It currently supports SSH brute force attempts using a password list to crack login credentials. The program is designed to be extensible, allowing additional brute force options to be added in the future.
 
